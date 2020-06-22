@@ -1,0 +1,27 @@
+<resources>
+    <!--pantalla uno-->
+    <string name="desc1">Defensa Hito3</string>
+    <string name="uni">Univ: Daniela Landa</string>
+    <string name="ges">Gestion2020</string>
+    <string name="nex">Next</string>
+
+    <!--pantalla dos-->
+    <string name="bas">Basica: </string>
+    <string name="cien">Cientifica: </string>
+    <string name="cus">Custom: </string>
+
+    <!--botonera-->
+    <string name="next">Siguiente</string>
+    <string name="back">Atrás</string>
+    <string name="done">Finalizar</string>
+
+    <string name="sel">SELECT</string>
+    <string name="desc">DESC</string>
+
+    <string name="selap">Select App</string>
+    <string name="user">Username</string>
+    <string name="ingre">Ingresar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
